@@ -1,5 +1,5 @@
 # AppListadeTarefas
-App Lista de Tarefas
+App Tarefas
 
 O aplicativo Lista de tarefas, criado no editor de código Sublime Text, buscou sintetizar os conhecimentos adquiridos no curso Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos do site udemy.com, aprofundando-se na linguagem PHP e sistema de Banco de Dados MySql com a utilização do recurso de padronização na comunicação de dados PDO.
 Este projeto reforçou a compreenção do funcionamento da arquitetura MVC em um sistema englobando conhecimentos de Back-End, bem como a interface de comunicação externa com o cliente, por meio dos recursos Bootstrap e Html.
